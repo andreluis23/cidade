@@ -1,1 +1,14 @@
-[]
+[
+    { 
+        "nome": "Rio de janeiro",
+        "populacao": 250000,
+        "uf": {
+            "sigla": "Rj",
+            "nome": "Rio de janeiro"
+        }
+
+
+    }
+ 
+
+]
